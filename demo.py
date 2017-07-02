@@ -12,7 +12,7 @@
 from email_handler import Class_eMail
 
 #set the email ID where you want to send the test email 
-To_Email_ID = "pradeep.si@gmail.com"
+To_Email_ID = ""
 
 
 # Send Plain Text Email 
