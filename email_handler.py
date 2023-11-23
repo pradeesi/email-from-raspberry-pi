@@ -7,7 +7,7 @@
 ##--- Python Ver: 2.7
 ##--- Description: This python code will send Plain Text and HTML based emails using Gmail SMTP server
 ##------------------------------------------
-##--- Author 1CM69
+##--- Author: 1CM69
 ##--- Date: 23rd Nov 2023
 ##--- Version: 2.0
 ##--- Python Ver: 3.11.2
